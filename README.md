@@ -16,7 +16,7 @@ cypress/integration/dfs/dfs.spec ALL.js
 
 
 
-#Install Cypress
+# Install Cypress
 
   - If you have npm you can download it via this command:
     - npm install cypress
@@ -29,7 +29,7 @@ cypress/integration/dfs/dfs.spec ALL.js
 
 
 
-#Selecting Correct Document
+# Selecting Correct Document
 
   - Download this github repo via a zip, by clicking the green button.
   - Once downloaded then unzip.
@@ -40,7 +40,7 @@ cypress/integration/dfs/dfs.spec ALL.js
 
 
 
-#Running Tests
+# Running Tests
   - From cypress double click 'dfs.spec ALL.js' and this will run all the tests.
 
 
