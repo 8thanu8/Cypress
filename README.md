@@ -34,6 +34,7 @@ After downloading unzip the file and select 'Cypress'.
 
 Drag And drop the Cypress root folder into the 'drag and drop' section. 
 (Cypress root folder is the download from )
+
 **
 
 
