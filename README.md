@@ -32,7 +32,9 @@ After downloading unzip the file and select 'Cypress'.
 
 *selecting correct document*
 
-Drag And drop the Cypress root folder into the 'drag and drop' section. 
+Download this github repo via a zip, by clicking the green button.
+Once downloaded then unzip.
+Open cypress and drag And drop the unzipped root folder into the 'drag and drop' section. 
 (Cypress root folder is the download from )
 
 **
